@@ -1,0 +1,46 @@
+﻿body
+        {
+            margin:0px;
+            font-family: KaiTi;
+            font-size: 1em;
+            color: #FFFFFF;
+            background-color: #000000;
+        }
+
+        a
+        {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        #body
+        {
+            margin: 0px 2%;
+        }	 /*头部*/
+        #header
+        {
+            background-color: gray;
+        }
+
+            #header ul
+            {
+                margin: 0px 10%;
+                overflow: hidden;
+                padding-bottom: 20px; 
+            }
+
+                #header ul li
+                {
+                    float: left;
+                    list-style-type: none;
+                    margin-right: 20px;
+                    font-size: 28px;
+                }
+				.y
+				{
+				color:yellow;
+				}
+				.w
+				{
+				color:#fff;
+				}

@@ -1,0 +1,64 @@
+﻿ li
+ {
+	color:yellow;
+	font-size:28px; 
+ }
+
+#leave strong
+{
+	margin-right: 0px;
+	padding-left: 4%;
+}
+
+ 
+.itemTitle
+{
+	font-weight: 800;
+	padding: 10px;
+	text-align: center;
+}
+
+#tabmenu
+{margin-top:10px;
+	float: left;
+	width: 25%;
+		border:1px solid gray;
+}
+
+	#tabmenu ul
+	{
+		padding-left: 0px;
+		text-align: center;
+		padding-top:20px;
+		padding-bottom:20px;
+	}
+
+		#tabmenu ul li
+		{
+			padding: 10px;
+		}
+
+#tabcontent
+{
+margin-top:10px;
+border:1px solid gray;
+	float: right;
+	width: 74%;
+}
+
+.down
+{ 
+    overflow: hidden;
+}
+
+#tabcontent ul
+{		
+	padding-left: 10px; 
+}
+
+	#tabcontent ul li
+	{
+		list-style-type:none;
+		margin-bottom: 20px;
+		margin:20px;
+	}
